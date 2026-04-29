@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Nationwide Logistics Inc logo</title>
+  <desc id="desc">Industrial truck and trailer repair logo with NLI initials.</desc>
+  <rect width="256" height="256" rx="34" fill="#121a22"/>
+  <path d="M31 72h111v70H31z" fill="#d98722"/>
+  <path d="M142 93h45l28 31v18h-73z" fill="#d98722"/>
+  <path d="M53 95h69v16H53zM53 120h50v12H53z" fill="#121a22"/>
+  <circle cx="76" cy="158" r="24" fill="#121a22"/>
+  <circle cx="76" cy="158" r="10" fill="#f4f6f5"/>
+  <circle cx="183" cy="158" r="24" fill="#121a22"/>
+  <circle cx="183" cy="158" r="10" fill="#f4f6f5"/>
+  <path d="M42 194h172" stroke="#d98722" stroke-width="10" stroke-linecap="round"/>
+  <path d="M70 222h116" stroke="#f4f6f5" stroke-width="8" stroke-linecap="round"/>
+  <text x="128" y="55" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900" fill="#f4f6f5">NLI</text>
+</svg>
